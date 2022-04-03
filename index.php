@@ -144,7 +144,7 @@ if(isset($_POST['email']) && isset($_POST['senha']))
                             <br/>
                             <button type="submit" class="btn btn-success">Entrar</button>
                                 <a href="create.php" class="btn btn-success">Registrar-se</a>
-                                <a href="./documentação/Index.html" target="new" class="btn btn-danger">Acessar documentação</a>
+                                <a href="./DOCUMENTAÇÃO - Documentos Google.pdf" target="new" class="btn btn-danger">Acessar documentação</a>
                             </div>
                         </form>
                     </div>
